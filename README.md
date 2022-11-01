@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!DOCTYPE html>
 <html>
 <head>
 <title>Page title</title>
