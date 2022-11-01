@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Marco Scatassi, a **Master Student in Data Science** at University of Milano Bicocca 😄. Here you can find some projects carried out along my studies 🏃‍♀️. You can find me on:
+I'm Marco Scatassi, a **Master Student in Data Science** at University of Milano Bicocca 😄. Here you can access some projects carried out during my studies 🏃‍♀️. You can find me on:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marco-scatassi/" target="blank">
