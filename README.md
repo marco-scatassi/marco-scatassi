@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title> Page title </title>
-</head>
+I'm Marco Scatassi, a **Master Student in Data Science** at University of Milano Bicocca 😄. Here you can find some projects carried out along my studies 🏃‍♀️. You can also find me on:
 
-<body>
-</body>
-</html>
+<div align="center">
+  <a href="https://www.linkedin.com/in/marco-scatassi/" target="blank">
+    <img align="center" src="" alt="linkedin" height="40" width="40" />
+  </a>
+</div>
+
 <!--
 **marco-scatassi/marco-scatassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
