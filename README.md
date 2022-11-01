@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Marco Scatassi, a **Master Student in Data Science** at University of Milano Bicocca 😄. Here you can find some projects carried out along my studies 🏃‍♀️. You can find me on:
 
@@ -12,17 +12,16 @@ I'm Marco Scatassi, a **Master Student in Data Science** at University of Milano
   </a>
 </div>
 
-<!--
-**marco-scatassi/marco-scatassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Some GitHub Stats 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<a href="https://github.com/marco-scatassi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-scatassi&hide=java&theme=kacho_ga" 
+  style="width:300px;height:200px;"/>
+</a>
+<a href="https://github.com/marco-scatassi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marco-scatassi&show_icons=true&theme=kacho_ga" 
+  style="width:450px;height:200px;"/>
+</a>
+</div>
