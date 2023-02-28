@@ -12,6 +12,10 @@ I'm Marco Scatassi, a **Master Student in Data Science** at University of Milano
   </a>
 </div>
 
+## My portfolio
+
+<a href="[https://giocoal.github.io/minimal-portfolio/](https://marco-scatassi.github.io/)" target="blank"><img align="center" src="./Images/primaversione1Rounded.png" alt="giorgiocarbonePortfolio" height="30" width="30" /></a>
+
 
 ## Some GitHub Stats 📊
 
