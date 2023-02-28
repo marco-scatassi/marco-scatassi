@@ -15,12 +15,11 @@ I'm Marco Scatassi, a **Master Student in Data Science** at University of Milano
 ## My portfolio
 
 <a href="https://marco-scatassi.github.io/" target="blank">
-  <img align="center" src="logo.png" alt="Marco_Scatassi_Portfolio_Link" width="20%">
+  <img align="center" src="logo.png" alt="Marco_Scatassi_Portfolio_Link" width="10%">
 </a>
 
 
 ## Some GitHub Stats 📊
-![logo](https://user-images.githubusercontent.com/96434607/221835302-5a94cbdd-1cf2-43e7-a7b1-56fef8fe9df4.png)
 
 <div align="center">
 <a href="https://github.com/marco-scatassi">
