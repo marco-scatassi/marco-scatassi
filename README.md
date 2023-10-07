@@ -15,7 +15,7 @@ I'm Marco Scatassi, a **Master Student in Data Science** at University of Milano
 ## My portfolio
 <div align="center">
 <a href="https://marco-scatassi.github.io/" target="blank">
-  <img align="center" src="logo.png" alt="Marco_Scatassi_Portfolio_Link" width="10%">
+  <img align="center" src="logo.png" alt="Marco_Scatassi_Portfolio_Link" width="60%">
 </a>
 </div>
 
